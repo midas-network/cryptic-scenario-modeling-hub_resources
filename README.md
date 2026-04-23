@@ -22,6 +22,7 @@ Teams are provided with epidemiological data, news reports, government advisorie
 ```
 ├── README.md
 ├── Early_Timeline_guide_teams.pdf
+├── DASHBOARD_GUIDE.md
 ├── Raw_data_Teams/
 │   ├── Australia/
 │   │   ├── AUSTRALIA_total_weekly_hospitalizations.csv
@@ -55,7 +56,7 @@ Teams are provided with epidemiological data, news reports, government advisorie
 
 | File | Description |
 |------|-------------|
-| `Early_Timeline_guide_teams.pdf` | **Start here.** Master timeline of the SPOK-24 epidemic from the first cluster (September 26, 2024) through January 2025. Lists every major event — case clusters, deaths, pathogen identification, international spread, WHO declarations, data releases — and cross-references the specific documents and data files that correspond to each event. |
+| `Early_Timeline_guide_teams.pdf` | **Start here.** Master timeline of the SPOK-24 epidemic from the first cluster (September 26, 2024) through January 2025. Lists every major event — case clusters, deaths, pathogen identification, international spread, WHO declarations, data releases — and cross-references the specific documents and data files that correspond to each event. A narrative timeline with more details is also available at [https://midas-network.github.io/spokars24-dashboard/SPOKARS24_Early_Timeline.html](https://midas-network.github.io/spokars24-dashboard/SPOKARS24_Early_Timeline.html) |
 
 ---
 
@@ -180,6 +181,16 @@ These fictional publications characterize the pathogen, clinical features, trans
 | Dec 25, 2024 | Cases detected in France and the United Kingdom |
 | Jan 7, 2025 | Severity analysis preprint published |
 | Jan 15–18, 2025 | Weekly state-level and country-level surveillance data become available |
+
+---
+
+## Dashboard
+
+A SPOKARS-24 Global Surveillance Dashboard is available at [https://midas-network.github.io/spokars24-dashboard/](https://midas-network.github.io/spokars24-dashboard/index.html). The dashboard is an interactive data platform that aggregates reported surveillance data on the SPOK-24 epidemic from multiple open sources worldwide. It provides a visual overview of the global spread of SPOKARS-24, including death counts, detected case counts, and confirmed travel-related importation events.
+
+The dashboard covers the period from November 16, 2024 through January 11, 2025 and includes data for 232 countries at the global level and US state-level breakdowns. 
+
+More information is available in the [dashboard guide](./DASHBOARD_GUIDE.md).
 
 ---
 
