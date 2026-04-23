@@ -220,4 +220,5 @@ investigators.
 
 The Scenario Modeling Hub site is supported by the MIDAS Coordination Center, 
 NIGMS Grant U24GM132013 (2019-2024) and R24GM153920 (2024-2029) to the 
-University of Pittsburgh.
+University of Pittsburgh. The data Generation team for the Cryptic Challenge has been supported by 
+cooperative agreement CDC-RFA-FT-23-0069 from the CDC’s Center for Forecasting and Outbreak Analytics. The funders had no role in study design, data collection and analysis.
