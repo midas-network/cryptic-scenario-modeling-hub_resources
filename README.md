@@ -14,6 +14,18 @@ Teams are provided with epidemiological data, news reports, government advisorie
 
 > **Important:** All documents, news articles, scientific papers, and advisories in this repository are **fictional** and were created solely for the purposes of this challenge.
 
+
+## How to participate
+
+The Pandemic cryptic phase round is ongoing and open to any modeler willing to provide 
+projections at the right temporal and spatial scales. Scenarios are currently in development 
+and will be shared in mid-2026, with a projection deadline set for the second half of 2026.
+
+Those interested to participate and/or to join the associated Slack channel and periodic meetings, 
+please email us at
+[scenariohub\@midasnetwork.us](mailto:scenariohub@midasnetwork.us).
+
+
 ---
 
 
